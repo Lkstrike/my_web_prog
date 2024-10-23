@@ -1,6 +1,6 @@
 <nav>
     <ul>
-        <li><a href="index.php">home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="Über uns.php">Über Uns</a></li>
         <li><a href="Kontakt.php">Kontakt</a></li>
         <li><a href="Galerie.php">Galerie</a></li>

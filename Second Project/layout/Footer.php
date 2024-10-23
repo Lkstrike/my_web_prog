@@ -1,6 +1,16 @@
-footer.php
+
 <footer>
-    Das ist Eine erweiterung
+    
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+COPY RIGHT METE  
 </footer>
 </body>
 </html>
